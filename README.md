@@ -1,4 +1,4 @@
 # Bootstrap-Portfolio
-Personal Portfolio using HTML and Bootstrap
+Personal Portfolio done using HTML, CSS and Bootstrap
 
 https://carolunita.github.io/Bootstrap-Portfolio/
